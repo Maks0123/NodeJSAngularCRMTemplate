@@ -11,3 +11,8 @@
 # npm install jsonwebtoken
 # npm install passport passport-jwt
 # npm install multer moment //for upload files
+# npm install -g @angular/cli
+# ng new client
+# npm run start
+# npm install -D concurrently
+# npm install materialize-css@next
