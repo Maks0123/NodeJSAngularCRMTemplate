@@ -16,3 +16,9 @@
 # npm run start
 # npm install -D concurrently
 # npm install materialize-css@next
+
+## ng g c login-page --spec false
+## ng g c shared/layouts/auth-layout --spec false
+## ng g c shared/layouts/site-layout --spec false
+## ng g c register-page --spec false
+
